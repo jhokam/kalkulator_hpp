@@ -1,0 +1,24 @@
+name: kalkulator_hpp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_easyloading: ^3.0.5
+  google_fonts: ^6.2.1
+  simple_animation_transition: ^0.0.6
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/Background Welcome Screen.png
